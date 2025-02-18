@@ -14,7 +14,7 @@ Capture de la valeur à tester
 -**Utilisation de la valeur absolue**  
   Pour éviter les problèmes de congruence en bash, nous utilisons la valeur absolue du nombre entré
 
-## B-ALgorithme pou l'optimisations de calcul
+## B-ALgorithme pour améliorer la vitesse de calcul 
 
 - **Vérification de la parité**    
    pour réduire le nombre de tests de divisibilité de moitié	 
